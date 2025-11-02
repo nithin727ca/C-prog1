@@ -1,3 +1,4 @@
+//usign constructor
 #include <iostream>
 using namespace std;
 
@@ -7,7 +8,7 @@ class Student
     string name;
 
 public:
-    // Constructor — same name as class, no return type
+    
     Student()
     {
         cout << "Constructor is called!" << endl;
